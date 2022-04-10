@@ -35,8 +35,27 @@ Sports
 
 ### Examples
 #### Music
-1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
-2. 
+* [https://www.youtube.com/watch?v=2arQuHM-rw8](https://www.youtube.com/watch?v=2arQuHM-rw8)
+* [https://www.youtube.com/watch?v=AInmlXuWl0Q](https://www.youtube.com/watch?v=AInmlXuWl0Q)
+* [https://www.youtube.com/watch?v=kVkGVVbDE7M](https://www.youtube.com/watch?v=kVkGVVbDE7M)
+* [https://www.youtube.com/watch?v=L6pZ4URI2xQ](https://www.youtube.com/watch?v=L6pZ4URI2xQ)
+* [https://www.youtube.com/watch?v=c71Ro_ou25g](https://www.youtube.com/watch?v=c71Ro_ou25g)
+* [https://www.youtube.com/watch?v=GsQcr4S5Q4w](https://www.youtube.com/watch?v=GsQcr4S5Q4w)
+* [https://www.youtube.com/watch?v=od2Y_TID-uU](https://www.youtube.com/watch?v=od2Y_TID-uU)
+* [https://www.youtube.com/watch?v=c71Ro_ou25g](https://www.youtube.com/watch?v=c71Ro_ou25g)
+* [https://www.youtube.com/watch?v=PFIjqYVLIX8](https://www.youtube.com/watch?v=PFIjqYVLIX8)
+* [https://www.youtube.com/watch?v=I_XsJejBcD8](https://www.youtube.com/watch?v=I_XsJejBcD8)
+* [https://www.youtube.com/watch?v=OOhWcdj9Iqk](https://www.youtube.com/watch?v=OOhWcdj9Iqk)
+* [https://www.youtube.com/watch?v=8dBWOPe70xE](https://www.youtube.com/watch?v=8dBWOPe70xE)
+* [https://www.youtube.com/watch?v=cs8-9GobWVs](https://www.youtube.com/watch?v=cs8-9GobWVs)
+* [https://www.youtube.com/watch?v=1nPmzML42oY](https://www.youtube.com/watch?v=1nPmzML42oY)
+* [https://www.youtube.com/watch?v=TPmOEquZp2g](https://www.youtube.com/watch?v=TPmOEquZp2g)
+* [https://www.youtube.com/watch?v=RCWpLqWHRqI](https://www.youtube.com/watch?v=RCWpLqWHRqI)
+* [https://www.youtube.com/watch?v=3SXCJD3XWk8](https://www.youtube.com/watch?v=3SXCJD3XWk8)
+* [https://www.youtube.com/watch?v=L6pZ4URI2xQ](https://www.youtube.com/watch?v=L6pZ4URI2xQ)
+* [https://www.youtube.com/watch?v=fwogUYmfaOw](https://www.youtube.com/watch?v=fwogUYmfaOw)
+* [https://www.youtube.com/watch?v=W1O0lZY0fRc](https://www.youtube.com/watch?v=W1O0lZY0fRc)
+
 #### Nonprofits & Activism
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
