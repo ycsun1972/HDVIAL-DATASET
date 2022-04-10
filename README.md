@@ -3,64 +3,79 @@
 Categories:
 
 Music
+
 Nonprofits & Activism
+
 Pets & Animals
+
 Travel & Events
+
 Comedy
+
 Gaming
+
 Film & Animation
+
 Autos & Vehicle
+
 Science & Technolog
+
 Education
+
 Howto & Style
+
 People & Blogs
+
 News & Politics
+
 Entertainment
+
 Sports
+
 
 ### Examples
 #### Music
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-Nonprofits & Activism
+#### Nonprofits & Activism
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-Pets & Animals
+#### Pets & Animals
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
 Travel & Events
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-Comedy
+#### Comedy
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-Gaming
+#### Gaming
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-Film & Animation
+#### Film & Animation
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-Autos & Vehicle
+#### Autos & Vehicle
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-Science & Technolog
+#### Science & Technolog
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-Education
+#### Education
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-Howto & Style
+#### Howto & Style
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-People & Blogs
+#### People & Blogs
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-News & Politics
+#### News & Politics
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-Entertainment
+#### Entertainment
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
-Sports
+#### Sports
 1. [https://docs.github.com/categories/github-pages-basics/](https://docs.github.com/categories/github-pages-basics/)
 2. 
